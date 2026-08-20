@@ -12,13 +12,12 @@ means biased conclusions. That's the lens I brought to my MSc thesis on
 germline genetics in early-onset colorectal cancer, and it's the lens 
 I'm building the independent technical skills to match.
 
-**Background:** MSc Bioinformatics (Merit), University of Birmingham — 
-germline variant analysis using Genomics England 100,000 Genomes data.
+**Background:** MSc Bioinformatics (Merit), University of Birmingham - germline variant analysis using Genomics England 100,000 Genomes data.
 
 **Currently:**
 - 🔧 Building independent Python, R, and bash foundations from the ground up
 - 🧬 Replicating my thesis analysis (EOCRC germline variant burden) on 
-  public TCGA data — same question, code I can defend end to end
+  public TCGA data - same question, code I can defend end to end
 - 🎯 Working toward a career in clinical bioinformatics genomics!
 
 **Expanding into:** variant calling and pipeline tools (GATK, Nextflow) 
