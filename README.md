@@ -21,7 +21,7 @@ I'm building the independent technical skills to match.
 - Data visualisation: ggplot2
 
 **Currently:**
-- 🔥 On a daily streak: Working through Rosalind Armory problems: https://rosalind.info/problems/locations/
+- 🔧 Building on foundations through Rosalind Armory problems: https://rosalind.info/problems/locations/
 - 🧬 Replicating my thesis analysis (EOCRC germline variant burden) on 
   public TCGA data - same question
 - 🎯 Working toward a career in clinical bioinformatics genomics!
@@ -29,4 +29,3 @@ I'm building the independent technical skills to match.
 **Expanding into:** variant calling and pipeline tools (GATK, Nextflow)
 
 📫 bhosalesanika2002@gmail.com
-🔗 Follow me: www.linkedin.com/in/sanikabhosale
