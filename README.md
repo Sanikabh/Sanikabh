@@ -14,13 +14,19 @@ I'm building the independent technical skills to match.
 
 **Background:** MSc Bioinformatics (Merit), University of Birmingham - germline variant analysis using Genomics England 100,000 Genomes data.
 
+**Skills:**
+- Python, R, bash, Git
+- Variant annotation & interpretation: VEP, VariantAnnotation (Bioconductor), ClinVar, AlphaMissense, REVEL, LOF
+- Statistical analysis: Fisher's Exact Test, logistic regression
+- Data visualisation: ggplot2
+
 **Currently:**
-- 🔧 Building independent Python, R, and bash foundations from the ground up
+- 🔥 On a daily streak: Working through Rosalind Armory problems: https://rosalind.info/problems/locations/
 - 🧬 Replicating my thesis analysis (EOCRC germline variant burden) on 
-  public TCGA data - same question, code I can defend end to end
+  public TCGA data - same question
 - 🎯 Working toward a career in clinical bioinformatics genomics!
 
-**Expanding into:** variant calling and pipeline tools (GATK, Nextflow) 
-as the foundations solidify.
+**Expanding into:** variant calling and pipeline tools (GATK, Nextflow)
 
 📫 bhosalesanika2002@gmail.com
+🔗 Follow me: www.linkedin.com/in/sanikabhosale
